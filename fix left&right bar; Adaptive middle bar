@@ -1,0 +1,23 @@
+<style>
+ .left{
+   width:200px;
+   float:left;
+   background-color:pink
+  }
+  .right{
+   width:200px;
+   float:right;
+   background-color:pink
+  }
+  .center {margin:0 200px;   background-color:lightblue}
+</style>
+
+<div class="left">aaaaaaaa</div>
+<div class="right">cccccccccc</div>
+<div class="center">bbbbbbb</div>
+
+</head>
+
+<body>
+
+</html>
